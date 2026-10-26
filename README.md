@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&amp;height=200&text=박재형%20Park%20JaeHyeong&fontSize=40&fontAlignY=36&desc=Backend%20%7C%20Full-Stack%20%7C%20AI%20Developer&descSize=18&descAlignY=50&amp;section=header" alt="Blue wave footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&amp;height=200&text=박재형%20Park%20JaeHyeong&fontSize=40&fontAlignY=36&desc=Backend%20%7C%20Full-Stack%20%7C%20AI%20Developer&descSize=18&descAlignY=52&amp;section=header" alt="Blue wave footer" />
 
 박재형 (Park JaeHyeong)
 ======================
